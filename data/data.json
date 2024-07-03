@@ -87,14 +87,14 @@
             "github": "https://github.com/Chany4/BMIcalc",
             "vercel" : "https://bmi-calc-tau.vercel.app/",
             "description": "I used HTML, CSS and JavaScript to create this",
-            "image": "url"
+            "image": "https://chany4.github.io/images.Portfolio/images/Screenshot%202024-07-03%20150159.png"
         },
         {
             "name": "To Do List",
             "github": "https://github.com/Chany4/toDoList",
             "vercel" : "https://to-do-list-hazel-tau.vercel.app/",
             "description": "I used HTML, CSS and JavaScript to create this. It is a simple to do list that adds and removes tasks",
-            "image": "URL"
+            "image": "https://chany4.github.io/images.Portfolio/images/Screenshot%202024-07-03%20150246.png"
         },
         {
             "name": "SWEGGA Website",
@@ -123,7 +123,22 @@
             "vercel" : "https://keyboard-gilt.vercel.app/",
             "description": "I used HTML, CSS and JavaScript to create this",
             "image": "https://chany4.github.io/images.Portfolio/images/Screenshot%202024-05-10%20123103.png"
+        },
+        {
+            "name": "Vera",
+            "github": "https://github.com/Chany4/ecom-WEB",
+            "vercel" : "https://ecom-web-45cw.vercel.app/index.html",
+            "description": "I used HTML, CSS and JavaScript to create this",
+            "image": "https://chany4.github.io/images.Portfolio/images/Screenshot%202024-07-03%20151306.png"
+        },
+        {
+            "name": "Portfolio Reimagined",
+            "github": "https://github.com/Chany4/keyboard",
+            "vercel" : "https://keyboard-gilt.vercel.app/",
+            "description": "I used HTML, CSS and JavaScript to create this",
+            "image": "url"
         }
+
     ],
     "testimonials":[
         {
