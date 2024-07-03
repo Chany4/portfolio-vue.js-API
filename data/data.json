@@ -32,8 +32,8 @@
             "levelPassed": "I passed with a Bachelor's degree",
             "descriptionLC":"lknlk",
             "yearLC": "2nd April - to present",
-            "placeOfInstitution": "Life Choices Academy",
-            "descriptionPIP" : "I am very proud to say that I officially launched my small business at the beginning of the year, in order to help my family out financially and in terms of profit , I calculated the total profit percentage so far 500% I have had my challenges in terms buying the materials needed for my business BUT I made a way to receive income by being a casual at accompany called UpperEdge, at which I did filing work. When my product was NOT selling a I hoped it would at a certain stage I adapted and brought in new project ideas that generated an entirely new source of income. Having a business has shown me that I can be very adaptive, strategic and innovative when things do not go as expected."
+            "placeOfInstitution": "Life Choices Academy"
+            
 
         }
     ],
@@ -47,7 +47,8 @@
                 "cell": "084 238 5064",
                 "position": "Branch Administrator"
             },
-            "nameOfBusiness": "Prettier is Pink"
+            "nameOfBusiness": "Prettier is Pink",
+            "descriptionPIP" : "I am very proud to say that I officially launched my small business at the beginning of the year, in order to help my family out financially and in terms of profit , I calculated the total profit percentage so far 500% I have had my challenges in terms buying the materials needed for my business BUT I made a way to receive income by being a casual at accompany called UpperEdge, at which I did filing work. When my product was NOT selling a I hoped it would at a certain stage I adapted and brought in new project ideas that generated an entirely new source of income. Having a business has shown me that I can be very adaptive, strategic and innovative when things do not go as expected."
         }
     ],
     "skills":[
