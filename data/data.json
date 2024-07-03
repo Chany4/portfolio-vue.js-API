@@ -101,7 +101,7 @@
             "github": "https://github.com/Chany4/SWEGGA",
             "vercel" : "https://swegga-zeta.vercel.app/",
             "description": "I used HTML, CSS, JavaScript Bootstrap to create this demo website for a made up company as an activity",
-            "image": "URL"
+            "image": "https://chany4.github.io/images.Portfolio/images/Screenshot%202024-05-10%20123350.png"
         },
         {
             "name": "Minutes to Seconds Converter",
@@ -115,7 +115,14 @@
             "github": "https://github.com/Chany4/tempConvert",
             "vercel" : "https://temp-convert-gold.vercel.app/",
             "description": "I used HTML, CSS and JavaScript to create this",
-            "image": "URL"
+            "image": "url"
+        },
+        {
+            "name": "Keyboard",
+            "github": "https://github.com/Chany4/keyboard",
+            "vercel" : "https://keyboard-gilt.vercel.app/",
+            "description": "I used HTML, CSS and JavaScript to create this",
+            "image": "https://chany4.github.io/images.Portfolio/images/Screenshot%202024-05-10%20123103.png"
         }
     ],
     "testimonials":[
