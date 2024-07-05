@@ -142,13 +142,6 @@
             "vercel": "https://ecom-web-45cw.vercel.app/index.html",
             "description": "I used HTML, CSS and JavaScript to create this",
             "image": "https://chany4.github.io/images.Portfolio/images/Screenshot%202024-07-03%20151306.png"
-        },
-        {
-            "name": "Portfolio Reimagined",
-            "github": "https://github.com/Chany4/keyboard",
-            "vercel": "https://keyboard-gilt.vercel.app/",
-            "description": "I used HTML, CSS and JavaScript to create this",
-            "image": "https://chany4.github.io/images.Portfolio/images/Desktop%20-%2022.png"
         }
     ],
     "testimonials": [{
@@ -186,18 +179,6 @@
             "position": "Student at Life Choices",
             "message": "Having Chandre as a classmate has been a delightful experience. Her dedication to her studies, combined with her friendly and supportive demeanor, creates a positive atmosphere for everyone around her. She is a driven and hardworking individual who would be a great asset to any company she joins.",
             "image": "https://chany4.github.io/images.Portfolio/images/Zen.jpg"
-        },
-        {
-            "name": "Matthew Brown",
-            "position": "Lecturer at Life Choices",
-            "message": "hvjhv",
-            "image": "Url"
-        },
-        {
-            "name": "Imaraan Sheldon",
-            "position": "Student at Life Choices",
-            "message": "Chandre often underestimates her abilities, but is a very capable web developer. She has strong personality, but a modest one. She isn`t exactly a `peoples person `but she doesn't lack any of the the qualities needed to be one. She is socially versatile and it carries over into her work being able to adjust to circumstances. Having worked with her I can say she'd be an asset to any company, lucky to have her.",
-            "image": "https://chany4.github.io/images.Portfolio/images/IMG-20240702-WA0020.jpg"
         }
     ],
     "contact": {
