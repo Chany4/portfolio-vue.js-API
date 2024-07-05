@@ -1,227 +1,221 @@
 {
-    "jobTitle": [
-        {
-            "title" : "ASPIRING FULL STACK DEVELOPER",
-            "jobBrief": "I am an aspiring Software Developer, UI/UX Designer and Full Stack Developer, studying at Life Choices Academy. I'm a very outgoing person but when it is time for action I am a very disciplined person. This is shown through my commitment to Life Choices Academy and my small business.Learn More About me by visiting the About page. Contact me by visiting the navigation bar above",
-            "nameInJob": "CHANDRÉ LEIGH DAVIDS"
-        }
-    ],
-    "about": [
-        {
-            "aboutBrief": "My name is Chandre Leigh Davids. I was born and raised in Rocklands, Mitchell`s Plain and that is where I currently reside. I am a very outgoing person, who is confident in her ability to establish connections with the people she meets. My love for coding sparked at an early age, which I can roughly pinpoint to Primary School, when I watched this movie about young programmer creating innovative solutions to everyday problems. This inspiration led me to explore the fascinating world of technology and development. I am a hard working individual who is always up for a challenge no matter how tedious it may seem. I absoloutely love learning new things. This is showcased by the fact that I am currently learning three languages, aside from coding, which are Mandarin, Korean and Arabic. My Hobbies include crocheting, knitting, dancing,singing and diy crafts and I put my  hobbies to use when I started my own business" ,
-            "aboutBrief2":"I was born and raised in Rocklands Mitchell's and I currently reside there. Matriculated in 2023 with a bachelors degree. Worked as a casual before coming to Life Choices Academy. Learnt the basics of HTML, CSS, JavaScript, Bootstrap, VUE.JS and Node.JS at Life Life Choice Academy. I`m able to speak and communicate in English and Afrikaans and I am hardworking as well as always up for a challenge.",
-            "adress": "Rocklands, Mitchell's Plain",
-            "contactInfo": "+27 73 325 3129"
-        }
-    ],
-    "education": [
-        {
-            "descriptionMHS":"  My Primary School years were spent at Eisleeben Road Primary School but I attended Mondale High School throughout my highschool career.The subjects I majored in included",
-            "yearMHS": "2023 - 2024",
-            "placeOfInstitutionMHS": "Mondale High School",
-            "subjects": [
-                {
-                    "math":"Mathematics",
-                    "physics": "Physical Sciences",
-                    "bio": "Life Sciences",
-                    "accounts" : "Accounting",
-                    "lo": "Life Orientation",
-                    "eng": "English Home Language",
-                    "afri" : "Afrikaans Eerste Addisionele Taal"
-                }
-            ],
-            "levelPassed": "I passed with a Bachelor's degree",
-            "descriptionLC":"lknlk",
-            "yearLC": "2nd April - to present",
-            "placeOfInstitution": "Life Choices Academy",
-            "firstAidBrief" : "",
-            "firstAidYear" : "2023",
-            "firstAidLevel" : "Level 1",
-            "other":"I am passionate about my work and I am committed to contributing to the growth and development of my community.I am excited about the endless possibilities that coding offers and am always eager to take on new challenges. ",
-            "certificate1" : "Certificate In First Aid Level 1",
-            "certificate2":"Matric Certificate",
-            "certificate3":"Introduction to computers",
-            "language1":"English",
-            "language2":"Afrikaans",
-            "language3":"Korean"
+    "jobTitle": [{
+        "title": "ASPIRING FULL STACK DEVELOPER",
+        "jobBrief": "I am an aspiring Software Developer, UI/UX Designer and Full Stack Developer, studying at Life Choices Academy. I'm a very outgoing person but when it is time for action I am a very disciplined person. This is shown through my commitment to Life Choices Academy and my small business.Learn More About me by visiting the About page. Contact me by visiting the navigation bar above",
+        "nameInJob": "CHANDRÉ LEIGH DAVIDS"
+    }],
+    "about": [{
+        "aboutBrief": "My name is Chandre Leigh Davids. I was born and raised in Rocklands, Mitchell`s Plain and that is where I currently reside. I am a very outgoing person, who is confident in her ability to establish connections with the people she meets. My love for coding sparked at an early age, which I can roughly pinpoint to Primary School, when I watched this movie about young programmer creating innovative solutions to everyday problems. This inspiration led me to explore the fascinating world of technology and development. I am a hard working individual who is always up for a challenge no matter how tedious it may seem. I absoloutely love learning new things. This is showcased by the fact that I am currently learning three languages, aside from coding, which are Mandarin, Korean and Arabic. My Hobbies include crocheting, knitting, dancing,singing and diy crafts and I put my  hobbies to use when I started my own business",
+        "aboutBrief2": "I was born and raised in Rocklands Mitchell's and I currently reside there. Matriculated in 2023 with a bachelors degree. Worked as a casual before coming to Life Choices Academy. Learnt the basics of HTML, CSS, JavaScript, Bootstrap, VUE.JS and Node.JS at Life Life Choice Academy. I`m able to speak and communicate in English and Afrikaans and I am hardworking as well as always up for a challenge."
+    }],
+    "education": [{
+        "descriptionMHS": "  My Primary School years were spent at Eisleeben Road Primary School but I attended Mondale High School throughout my highschool career.The subjects I majored in included",
+        "yearMHS": "2023 - 2024",
+        "placeOfInstitutionMHS": "Mondale High School",
+        "subjects": [{
+            "math": "Mathematics",
+            "physics": "Physical Sciences",
+            "bio": "Life Sciences",
+            "accounts": "Accounting",
+            "lo": "Life Orientation",
+            "eng": "English Home Language",
+            "afri": "Afrikaans Eerste Addisionele Taal"
+        }],
+        "levelPassed": "I passed with a Bachelor's degree",
+        "descriptionLC": "lknlk",
+        "yearLC": "2nd April - to present",
+        "placeOfInstitution": "Life Choices Academy",
+        "firstAidBrief": "",
+        "firstAidYear": "2023",
+        "firstAidLevel": "Level 1",
+        "other": "I am passionate about my work and I am committed to contributing to the growth and development of my community.I am excited about the endless possibilities that coding offers and am always eager to take on new challenges. ",
+        "certificate1": "Certificate In First Aid Level 1",
+        "certificate2": "Matric Certificate",
+        "certificate3": "Introduction to computers",
+        "language1": "English",
+        "language2": "Afrikaans",
+        "language3": "Korean"
 
+    }],
+    "workExp": [{
+        "placeOfWork": "UpperEdge",
+        "year": "2024",
+        "description": "I casualed at UpperEdge at which I did filing and shredding",
+        "contactReference": {
+            "name": "Helgar Roelofse",
+            "cell": "084 238 5064",
+            "position": "Branch Administrator"
+        },
+        "nameOfBusiness": "Prettier is Pink",
+        "descriptionPIP": "I am very proud to say that I officially launched my small business at the beginning of the year, in order to help my family out financially and in terms of profit , I calculated the total profit percentage so far 500% I have had my challenges in terms buying the materials needed for my business BUT I made a way to receive income by being a casual at accompany called UpperEdge, at which I did filing work. When my product was NOT selling a I hoped it would at a certain stage I adapted and brought in new project ideas that generated an entirely new source of income. Having a business has shown me that I can be very adaptive, strategic and innovative when things do not go as expected.",
+        "yearPIP": "2023 -2024"
+    }],
+    "skills": [{
+            "name": "HTML5",
+            "level": "Intermediate level",
+            "proficiency": "I have the ability to design and develop the structure of a website"
+        },
+        {
+            "name": "CSS3",
+            "level": "Intermediate level",
+            "proficiency": "I can style a website to meet specific design requirements"
+        },
+        {
+            "name": "Bootstrap",
+            "level": "Intermediate level",
+            "proficiency": "I can use Bootstrap to create responsive and visually appealing web designs"
+        },
+        {
+            "name": "Git",
+            "level": "Intermediate level",
+            "proficiency": "I am proficient with Git for version control, enabling effective collaboration and code management."
+        },
+        {
+            "name": "JavaScript",
+            "level": "Intermediate level",
+            "proficiency": "I can write clean and efficient code in JavaScript, enhancing the interactivity and functionality of web applications."
+        },
+        {
+            "name": "Vue.js",
+            "level": "Intermediate level",
+            "proficiency": "I have experience with Vue.js for building dynamic and reactive user interfaces"
+        },
+        {
+            "name": "Node.js",
+            "level": "Intermediate level",
+            "proficiency": "I have an entry level understanding on this framework"
+        },
+        {
+            "name": "Figma",
+            "level": "Intermediate level",
+            "proficiency": "I can design user interfaces and prototypes using Figma, focusing on user experience and visual aesthetics."
+        },
+        {
+            "name": "PhotoShop",
+            "level": "Intermediate level",
+            "proficiency": "I have skills in Photoshop for creating and editing graphics, enhancing the visual appeal of web projects."
         }
     ],
-    "workExp": [
-        {
-            "placeOfWork": "UpperEdge",
-            "year":"2024",
-            "description": "I casualed at UpperEdge at which I did filing and shredding",
-            "contactReference": {
-                "name": "Helgar Roelofse",
-                "cell": "084 238 5064",
-                "position": "Branch Administrator"
-            },
-            "nameOfBusiness": "Prettier is Pink",
-            "descriptionPIP" : "I am very proud to say that I officially launched my small business at the beginning of the year, in order to help my family out financially and in terms of profit , I calculated the total profit percentage so far 500% I have had my challenges in terms buying the materials needed for my business BUT I made a way to receive income by being a casual at accompany called UpperEdge, at which I did filing work. When my product was NOT selling a I hoped it would at a certain stage I adapted and brought in new project ideas that generated an entirely new source of income. Having a business has shown me that I can be very adaptive, strategic and innovative when things do not go as expected.",
-            "yearPIP": "2023 -2024"
-        }
-    ],
-    "skills":[
-        {
-            "name":"HTML5",
-            "level": "Intermediate level",
-            "proficiency":"I have the ability to design and develop the structure of a website"
-        },
-        {
-            "name":"CSS3",
-            "level": "Intermediate level",
-            "proficiency":"I can style a website to meet specific design requirements"
-        },
-        {
-            "name":"Bootstrap",
-            "level": "Intermediate level",
-            "proficiency":"I can use Bootstrap to create responsive and visually appealing web designs"
-        },
-        {
-            "name":"Git",
-            "level": "Intermediate level",
-            "proficiency":"I am proficient with Git for version control, enabling effective collaboration and code management."
-        },
-        {
-            "name":"JavaScript",
-            "level": "Intermediate level",
-            "proficiency":"I can write clean and efficient code in JavaScript, enhancing the interactivity and functionality of web applications."
-        },
-        {
-            "name":"Vue.js",
-            "level": "Intermediate level",
-            "proficiency":"I have experience with Vue.js for building dynamic and reactive user interfaces"
-        },
-        {
-            "name":"Node.js",
-            "level": "Intermediate level",
-            "proficiency":"I have an entry level understanding on this framework"
-        },
-        {
-            "name":"Figma",
-            "level": "Intermediate level",
-            "proficiency":"I can design user interfaces and prototypes using Figma, focusing on user experience and visual aesthetics."
-        },
-        {
-            "name":"PhotoShop",
-            "level": "Intermediate level",
-            "proficiency":"I have skills in Photoshop for creating and editing graphics, enhancing the visual appeal of web projects."
-        }
-    ],
-    "projects": [
-        {
+    "projects": [{
             "name": "Calculator",
             "github": "https://github.com/Chany4/calculator",
-            "vercel" : "https://calculator2-xi.vercel.app/",
+            "vercel": "https://calculator2-xi.vercel.app/",
             "description": "I used HTML, CSS and JavaScript to create this. It is a basic functional calculator",
             "image": "https://chany4.github.io/images.Portfolio/images/Screenshot%202024-05-10%20125129.png"
         },
         {
             "name": "BMI-Calculator",
             "github": "https://github.com/Chany4/BMIcalc",
-            "vercel" : "https://bmi-calc-tau.vercel.app/",
+            "vercel": "https://bmi-calc-tau.vercel.app/",
             "description": "I used HTML, CSS and JavaScript to create this",
             "image": "https://chany4.github.io/images.Portfolio/images/Screenshot%202024-07-03%20150159.png"
         },
         {
             "name": "To Do List",
             "github": "https://github.com/Chany4/toDoList",
-            "vercel" : "https://to-do-list-hazel-tau.vercel.app/",
+            "vercel": "https://to-do-list-hazel-tau.vercel.app/",
             "description": "I used HTML, CSS and JavaScript to create this. It is a simple to do list that adds and removes tasks",
             "image": "https://chany4.github.io/images.Portfolio/images/Screenshot%202024-07-03%20150246.png"
         },
         {
             "name": "SWEGGA Website",
             "github": "https://github.com/Chany4/SWEGGA",
-            "vercel" : "https://swegga-zeta.vercel.app/",
+            "vercel": "https://swegga-zeta.vercel.app/",
             "description": "I used HTML, CSS, JavaScript Bootstrap to create this demo website for a made up company as an activity",
             "image": "https://chany4.github.io/images.Portfolio/images/Screenshot%202024-05-10%20123350.png"
         },
         {
             "name": "Minutes to Seconds Converter",
             "github": "https://github.com/Chany4/min2sec",
-            "vercel" : "https://min2sec.vercel.app/",
+            "vercel": "https://min2sec.vercel.app/",
             "description": "I used HTML, CSS and JavaScript to create this",
             "image": ""
         },
         {
             "name": "Temperature Converter",
             "github": "https://github.com/Chany4/tempConvert",
-            "vercel" : "https://temp-convert-gold.vercel.app/",
+            "vercel": "https://temp-convert-gold.vercel.app/",
             "description": "I used HTML, CSS and JavaScript to create this",
             "image": "url"
         },
         {
             "name": "Keyboard",
             "github": "https://github.com/Chany4/keyboard",
-            "vercel" : "https://keyboard-gilt.vercel.app/",
+            "vercel": "https://keyboard-gilt.vercel.app/",
             "description": "I used HTML, CSS and JavaScript to create this",
             "image": "https://chany4.github.io/images.Portfolio/images/Screenshot%202024-05-10%20123103.png"
         },
         {
             "name": "Vera",
             "github": "https://github.com/Chany4/ecom-WEB",
-            "vercel" : "https://ecom-web-45cw.vercel.app/index.html",
+            "vercel": "https://ecom-web-45cw.vercel.app/index.html",
             "description": "I used HTML, CSS and JavaScript to create this",
             "image": "https://chany4.github.io/images.Portfolio/images/Screenshot%202024-07-03%20151306.png"
         },
         {
             "name": "Portfolio Reimagined",
             "github": "https://github.com/Chany4/keyboard",
-            "vercel" : "https://keyboard-gilt.vercel.app/",
+            "vercel": "https://keyboard-gilt.vercel.app/",
             "description": "I used HTML, CSS and JavaScript to create this",
             "image": "url"
         }
     ],
-    "testimonials":[
-        {
+    "testimonials": [{
             "name": "Chloe Almazien",
             "position": "Student at Life Choices",
             "message": "Chandre is the most hard working person I know . She always holds her head high even in the face of adversity. Her gentle and kind nature is like that of a pink Saturn sheet both comforting and beautiful in its own right. she truly is a brilliant woman who will go far one day, that's a fact",
-            "image":"https://chany4.github.io/images.Portfolio/images/chloe%20A.jpg"
+            "image": "https://chany4.github.io/images.Portfolio/images/chloe%20A.jpg"
         },
         {
             "name": "Keegan Niekerk",
             "position": "Student at Life Choices",
             "message": "Chandre is a very charming , intelligent and caring young woman who is always one to ask questions , and is always willing to help someone when asked. She is one who takes pride in her work and always strives to be the best in what she does. Chandre is the type of person who attracts people with her charm and intelligence , and is one of the friendliest people one could meet.",
-            "image":"https://chany4.github.io/images.Portfolio/images/Keegan.jpg"
+            "image": "https://chany4.github.io/images.Portfolio/images/Keegan.jpg"
         },
         {
             "name": "Gwiba Mabandla",
             "position": "Student at Life ChoicesStudent at Life Choices",
             "message": "One of the most caring and considerate people out there. She is very hardworking, and takes pride into knowing and understanding her work so everything is perfect. Don't  believe me? Check her note",
-            "image":"https://chany4.github.io/images.Portfolio/images/Gwiba.jpg"
+            "image": "https://chany4.github.io/images.Portfolio/images/Gwiba.jpg"
         },
         {
             "name": "Oyintanda Zongwana",
             "position": "Student at Life Choices",
             "message": "Working with Chandre has been an absolute pleasure! Her dedication, and creativity have exceeded all expectations. She consistently deliver results and are a true asset to any team. I highly recommend Chandre for their outstanding skills and professionalism.",
-            "image":"https://chany4.github.io/images.Portfolio/images/Oyintanda.jpg"
+            "image": "https://chany4.github.io/images.Portfolio/images/Oyintanda.jpg"
         },
         {
             "name": "Marcus Adonis",
             "position": "Student at Life Choices",
             "message": "Soft hearted person who loves working with people. Contributes a lot in a team to produce quality results. Very hard working and puts in 110% effort",
-            "image":"https://chany4.github.io/images.Portfolio/images/Marcus.jpg"
+            "image": "https://chany4.github.io/images.Portfolio/images/Marcus.jpg"
         },
         {
             "name": "Zen Lee George",
             "position": "Student at Life Choices",
             "message": "Having Chandre as a classmate has been a delightful experience. Her dedication to her studies, combined with her friendly and supportive demeanor, creates a positive atmosphere for everyone around her. She is a driven and hardworking individual who would be a great asset to any company she joins.",
-            "image":"https://chany4.github.io/images.Portfolio/images/Zen.jpg"
+            "image": "https://chany4.github.io/images.Portfolio/images/Zen.jpg"
         },
         {
             "name": "Matthew Brown",
             "position": "Lecturer at Life Choices",
             "message": "hvjhv",
-            "image":"Url"
+            "image": "Url"
         },
         {
             "name": "Imaraan Sheldon",
             "position": "Student at Life Choices",
             "message": "Chandre often underestimates her abilities, but is a very capable web developer. She has strong personality, but a modest one. She isn`t exactly a `peoples person `but she doesn't lack any of the the qualities needed to be one. She is socially versatile and it carries over into her work being able to adjust to circumstances. Having worked with her I can say she'd be an asset to any company, lucky to have her.",
-            "image":"https://chany4.github.io/images.Portfolio/images/IMG-20240702-WA0020.jpg"
+            "image": "https://chany4.github.io/images.Portfolio/images/IMG-20240702-WA0020.jpg"
         }
-    ]
+    ],
+    "contact": {
+        "adress": "Rocklands, Mitchell's Plain",
+        "contactInfo": "+27 73 325 3129",
+        "email":"chandreleighdavids04052005@gmail.com",
+        "LinkedIn": "Chandré Leigh Davids",
+        "gitHub" :"Chany4"
+
+
+    }
 }
