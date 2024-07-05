@@ -32,7 +32,11 @@
             "levelPassed": "I passed with a Bachelor's degree",
             "descriptionLC":"lknlk",
             "yearLC": "2nd April - to present",
-            "placeOfInstitution": "Life Choices Academy"
+            "placeOfInstitution": "Life Choices Academy",
+            "firstAidBrief" : "",
+            "firstAidYear" : "2023",
+            "firstAidLevel" : "Level 1"
+            
             
 
         }
@@ -55,24 +59,50 @@
     "skills":[
         {
             "name":"HTML5",
-            "level": "Intermediate level"
+            "level": "Intermediate level",
+            "proficiency":"lorem"
         },
         {
             "name":"CSS3",
-            "level": "Intermediate level"
+            "level": "Intermediate level",
+            "proficiency":"lorem"
         },
         {
-            "name":"Bootsrap",
-            "level": "Able to code a site to be mobile responsive using Bootsrap's Open Source framework"
+            "name":"Bootstrap",
+            "level": "Intermediate level",
+            "proficiency":"lorem"
+        },
+        {
+            "name":"Git",
+            "level": "Intermediate level",
+            "proficiency":"lorem"
         },
         {
             "name":"JavaScript",
-            "level": "Intermediate level"
+            "level": "Intermediate level",
+            "proficiency":"lorem"
         },
         {
             "name":"Vue.js",
-            "level": "Intermediate level"
+            "level": "Intermediate level",
+            "proficiency":"lorem"
+        },
+        {
+            "name":"Node.js",
+            "level": "Intermediate level",
+            "proficiency":"lorem"
+        },
+        {
+            "name":"Figma",
+            "level": "Intermediate level",
+            "proficiency":"lorem"
+        },
+        {
+            "name":"PhotoShop",
+            "level": "Intermediate level",
+            "proficiency":"lorem"
         }
+        
     ],
     "projects": [
         {
