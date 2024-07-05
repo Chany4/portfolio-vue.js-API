@@ -102,7 +102,6 @@
             "level": "Intermediate level",
             "proficiency":"lorem"
         }
-        
     ],
     "projects": [
         {
@@ -168,7 +167,6 @@
             "description": "I used HTML, CSS and JavaScript to create this",
             "image": "url"
         }
-
     ],
     "testimonials":[
         {
