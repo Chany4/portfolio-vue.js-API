@@ -42,47 +42,47 @@
         "yearPIP": "2023 -2024"
     }],
     "skills": [{
-            "name": "HTML5",
+            "name": "lab la-html",
             "level": "Intermediate level",
             "proficiency": "I have the ability to design and develop the structure of a website"
         },
         {
-            "name": "CSS3",
+            "name": "lab la-css3",
             "level": "Intermediate level",
             "proficiency": "I can style a website to meet specific design requirements"
         },
         {
-            "name": "Bootstrap",
+            "name": "lab la-bootstrap",
             "level": "Intermediate level",
             "proficiency": "I can use Bootstrap to create responsive and visually appealing web designs"
         },
         {
-            "name": "Git",
+            "name": "lab la-github",
             "level": "Intermediate level",
             "proficiency": "I am proficient with Git for version control, enabling effective collaboration and code management."
         },
         {
-            "name": "JavaScript",
+            "name": "lab la-js-square",
             "level": "Intermediate level",
             "proficiency": "I can write clean and efficient code in JavaScript, enhancing the interactivity and functionality of web applications."
         },
         {
-            "name": "Vue.js",
+            "name": "lab la-vuejs",
             "level": "Intermediate level",
             "proficiency": "I have experience with Vue.js for building dynamic and reactive user interfaces"
         },
         {
-            "name": "Node.js",
+            "name": "lab la-node",
             "level": "Intermediate level",
             "proficiency": "I have an entry level understanding on this framework"
         },
         {
-            "name": "Figma",
+            "name": "lab la-figma",
             "level": "Intermediate level",
             "proficiency": "I can design user interfaces and prototypes using Figma, focusing on user experience and visual aesthetics."
         },
         {
-            "name": "PhotoShop",
+            "name": "lab la-adobe",
             "level": "Intermediate level",
             "proficiency": "I have skills in Photoshop for creating and editing graphics, enhancing the visual appeal of web projects."
         }
