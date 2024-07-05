@@ -60,47 +60,47 @@
         {
             "name":"HTML5",
             "level": "Intermediate level",
-            "proficiency":"lorem"
+            "proficiency":"I have the ability to design and develop the structure of a website"
         },
         {
             "name":"CSS3",
             "level": "Intermediate level",
-            "proficiency":"lorem"
+            "proficiency":"I can style a website to meet specific design requirements"
         },
         {
             "name":"Bootstrap",
             "level": "Intermediate level",
-            "proficiency":"lorem"
+            "proficiency":"I can use Bootstrap to create responsive and visually appealing web designs"
         },
         {
             "name":"Git",
             "level": "Intermediate level",
-            "proficiency":"lorem"
+            "proficiency":"I am proficient with Git for version control, enabling effective collaboration and code management."
         },
         {
             "name":"JavaScript",
             "level": "Intermediate level",
-            "proficiency":"lorem"
+            "proficiency":"I can write clean and efficient code in JavaScript, enhancing the interactivity and functionality of web applications."
         },
         {
             "name":"Vue.js",
             "level": "Intermediate level",
-            "proficiency":"lorem"
+            "proficiency":"I have experience with Vue.js for building dynamic and reactive user interfaces"
         },
         {
             "name":"Node.js",
             "level": "Intermediate level",
-            "proficiency":"lorem"
+            "proficiency":"I have an entry level understanding on this framework"
         },
         {
             "name":"Figma",
             "level": "Intermediate level",
-            "proficiency":"lorem"
+            "proficiency":"I can design user interfaces and prototypes using Figma, focusing on user experience and visual aesthetics."
         },
         {
             "name":"PhotoShop",
             "level": "Intermediate level",
-            "proficiency":"lorem"
+            "proficiency":"I have skills in Photoshop for creating and editing graphics, enhancing the visual appeal of web projects."
         }
     ],
     "projects": [
@@ -172,42 +172,50 @@
         {
             "name": "Chloe Almazien",
             "position": "Student at Life Choices",
-            "message": "Chandre is the most hard working person I know . She always holds her head high even in the face of adversity. Her gentle and kind nature is like that of a pink Saturn sheet both comforting and beautiful in its own right. she truly is a brilliant woman who will go far one day, that's a fact"
+            "message": "Chandre is the most hard working person I know . She always holds her head high even in the face of adversity. Her gentle and kind nature is like that of a pink Saturn sheet both comforting and beautiful in its own right. she truly is a brilliant woman who will go far one day, that's a fact",
+            "image":"https://chany4.github.io/images.Portfolio/images/chloe%20A.jpg"
         },
         {
             "name": "Keegan Niekerk",
             "position": "Student at Life Choices",
-            "message": "Chandre is a very charming , intelligent and caring young woman who is always one to ask questions , and is always willing to help someone when asked. She is one who takes pride in her work and always strives to be the best in what she does. Chandre is the type of person who attracts people with her charm and intelligence , and is one of the friendliest people one could meet."
+            "message": "Chandre is a very charming , intelligent and caring young woman who is always one to ask questions , and is always willing to help someone when asked. She is one who takes pride in her work and always strives to be the best in what she does. Chandre is the type of person who attracts people with her charm and intelligence , and is one of the friendliest people one could meet.",
+            "image":"https://chany4.github.io/images.Portfolio/images/Keegan.jpg"
         },
         {
             "name": "Gwiba Mabandla",
             "position": "Student at Life ChoicesStudent at Life Choices",
-            "message": "One of the most caring and considerate people out there. She is very hardworking, and takes pride into knowing and understanding her work so everything is perfect. Don't  believe me? Check her note"
+            "message": "One of the most caring and considerate people out there. She is very hardworking, and takes pride into knowing and understanding her work so everything is perfect. Don't  believe me? Check her note",
+            "image":"https://chany4.github.io/images.Portfolio/images/Gwiba.jpg"
         },
         {
             "name": "Oyintanda Zongwana",
             "position": "Student at Life Choices",
-            "message": "Working with Chandre has been an absolute pleasure! Her dedication, and creativity have exceeded all expectations. She consistently deliver results and are a true asset to any team. I highly recommend Chandre for their outstanding skills and professionalism."
+            "message": "Working with Chandre has been an absolute pleasure! Her dedication, and creativity have exceeded all expectations. She consistently deliver results and are a true asset to any team. I highly recommend Chandre for their outstanding skills and professionalism.",
+            "image":"https://chany4.github.io/images.Portfolio/images/Oyintanda.jpg"
         },
         {
             "name": "Marcus Adonis",
             "position": "Student at Life Choices",
-            "message": "Soft hearted person who loves working with people. Contributes a lot in a team to produce quality results. Very hard working and puts in 110% effort"
+            "message": "Soft hearted person who loves working with people. Contributes a lot in a team to produce quality results. Very hard working and puts in 110% effort",
+            "image":"https://chany4.github.io/images.Portfolio/images/Marcus.jpg"
         },
         {
             "name": "Zen Lee George",
             "position": "Student at Life Choices",
-            "message": "Having Chandre as a classmate has been a delightful experience. Her dedication to her studies, combined with her friendly and supportive demeanor, creates a positive atmosphere for everyone around her. She is a driven and hardworking individual who would be a great asset to any company she joins."
-        },
-        {
-            "name": "Jodie Smith",
-            "position": "Ex Student at Life Choices",
-            "message": "khvvhg"
+            "message": "Having Chandre as a classmate has been a delightful experience. Her dedication to her studies, combined with her friendly and supportive demeanor, creates a positive atmosphere for everyone around her. She is a driven and hardworking individual who would be a great asset to any company she joins.",
+            "image":"https://chany4.github.io/images.Portfolio/images/Zen.jpg"
         },
         {
             "name": "Matthew Brown",
             "position": "Lecturer at Life Choices",
-            "message": "hvjhv"
+            "message": "hvjhv",
+            "image":"Url"
+        },
+        {
+            "name": "Imaraan Sheldon",
+            "position": "Student at Life Choices",
+            "message": "Chandre often underestimates her abilities, but is a very capable web developer. She has strong personality, but a modest one. She isn`t exactly a `peoples person `but she doesn't lack any of the the qualities needed to be one. She is socially versatile and it carries over into her work being able to adjust to circumstances. Having worked with her I can say she'd be an asset to any company, lucky to have her.",
+            "image":"https://chany4.github.io/images.Portfolio/images/IMG-20240702-WA0020.jpg"
         }
     ]
 }
