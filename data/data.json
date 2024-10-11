@@ -1,28 +1,39 @@
 {
     "jobTitle": [{
         "title": "ASPIRING FULL STACK DEVELOPER",
-        "jobBrief": "I am an aspiring Software Developer, UI/UX Designer and Full Stack Developer, studying at Life Choices Academy. I'm a very outgoing person but when it is time for action I am a very disciplined person. This is shown through my commitment to Life Choices Academy and my small business.Learn More About me by visiting the About page. Contact me by visiting the navigation bar above",
+        "jobBrief": "I am an aspiring Software Developer, UI/UX Designer and Full Stack Developer, studying at LC Studio. ",
         "nameInJob": "Chandré Leigh Davids"
     }],
     "about": [{
-        "aboutBrief": "My name is Chandre Leigh Davids. I was born and raised in Rocklands, Mitchell`s Plain and that is where I currently reside. I am a very outgoing person, who is confident in her ability to establish connections with the people she meets. My love for coding sparked at an early age, which I can roughly pinpoint to Primary School, when I watched this movie about young programmer creating innovative solutions to everyday problems. This inspiration led me to explore the fascinating world of technology and development. I am a hard working individual who is always up for a challenge no matter how tedious it may seem. I absoloutely love learning new things. This is showcased by the fact that I am currently learning three languages, aside from coding, which are Mandarin, Korean and Arabic. My Hobbies include crocheting, knitting, dancing,singing and diy crafts and I put my  hobbies to use when I started my own business",
-        "aboutBrief2": "I was born and raised in Rocklands Mitchell's and I currently reside there. Matriculated in 2023 with a bachelors degree. Worked as a casual before coming to Life Choices Academy. Learnt the basics of HTML, CSS, JavaScript, Bootstrap, VUE.JS and Node.JS at Life Life Choice Academy. I`m able to speak and communicate in English and Afrikaans and I am hardworking as well as always up for a challenge."
+        "aboutBrief": "My name is Chandre Leigh Davids. I was born and raised in Rocklands, Mitchell`s Plain and that is where I currently reside. I am a very outgoing person, who is confident in her ability to establish connections with the people she meets. My love for coding sparked at an early age, which I can roughly pinpoint to Primary School, when I watched this movie about young programmer creating innovative solutions to everyday problems. This inspiration led me to explore the fascinating world of technology and development. I am a hard working individual who is always up for a challenge no matter how tedious it may seem. I absoloutely love learning new things. This is showcased through the fact that I am currently learning three languages, aside from coding, which are Mandarin, Korean and Arabic. My Hobbies include crocheting, knitting, dancing,singing and diy crafts and I put my  hobbies to use when I started my own business",
+        "aboutBrief2": "I was born and raised in Rocklands Mitchell's and I currently reside there. I matriculated in 2023 with a bachelors degree. Worked as a casual before coming to Life Choices Academy. Learnt the basics of HTML, CSS, JavaScript, Bootstrap, VUE.JS and Node.JS at Life Life Choice Academy. I`m able to speak and communicate in English and Afrikaans and I am hardworking as well as always up for a challenge. I'm a very outgoing person but when it is time for action I am a very disciplined person. This is shown through my commitment to Life Choices Academy and my small business.Learn More About my journey and by visiting the About page. Contact me by visiting the navigation bar above"
     }],
     "education": [{
         "descriptionMHS": "  My Primary School years were spent at Eisleeben Road Primary School but I attended Mondale High School throughout my highschool career.The subjects I majored in included",
         "yearMHS": "2023 - 2024",
         "placeOfInstitutionMHS": "Mondale High School",
+        "placeOfInstitutionMHSURL": "url",
         "levelPassed": "I passed with a Bachelor's degree",
         "descriptionLC": "lknlk",
-        "yearLC": "2nd April - to present",
+        "yearLC": "2nd April 2024 - 20 September 2024",
         "placeOfInstitution": "Life Choices Academy",
-        "firstAidBrief": "",
+        "placeOfInstitutionURL": "url",
+        "firstAidBrief": "I obtained a first aid level 1 certficate in highschool",
         "firstAidYear": "2023",
         "firstAidLevel": "Level 1",
         "other": "I am passionate about my work and I am committed to contributing to the growth and development of my community.I am excited about the endless possibilities that coding offers and am always eager to take on new challenges. ",
         "certificate1": "Certificate In First Aid Level 1",
+        "certificate1URL":"image",
+        "certificate1Brief":"image",
         "certificate2": "Matric Certificate",
+        "certificate2URL":"image",
+        "certificate2Brief":"image",
         "certificate3": "Introduction to computers",
+        "certificate3URL":"image",
+        "certificate3Brief":"image",
+        "certificate4":"Certificate of Excellence ",
+        "certificate4URL":"image",
+        "certificate4Brief":"image",
         "language1": "English",
         "language2": "Afrikaans",
         "language3": "Korean"
@@ -42,57 +53,125 @@
         "yearPIP": "2023 -2024"
     }],
     "skills": [{
-            "name": "lab la-html5",
+            "name": "HTML",
+            "image":"lab la-html5",
+            "url":"url",
             "level": "Intermediate level",
             "proficiency": "I have the ability to design and develop the structure of a website"
         },
         {
-            "name": "lab la-css3",
+            "name":"CSS",
+            "image": "lab la-css3",
+            "url":"url",
             "level": "Intermediate level",
             "proficiency": "I can style a website to meet specific design requirements"
         },
         {
-            "name": "lab la-bootstrap",
+            "name":"Bootstrap",
+            "image": "lab la-bootstrap",
+            "url":"url",
             "level": "Intermediate level",
             "proficiency": "I can use Bootstrap to create responsive and visually appealing web designs"
         },
         {
-            "name": "lab la-github",
+            "name":"GitHub/GitBash",
+            "image": "lab la-github",
+            "url":"url",
             "level": "Intermediate level",
             "proficiency": "I am proficient with Git for version control, enabling effective collaboration and code management."
         },
         {
-            "name": "lab la-js-square",
+            "name":"JavaScript",
+            "image": "lab la-js-square",
+            "url":"url",
             "level": "Intermediate level",
             "proficiency": "I can write clean and efficient code in JavaScript, enhancing the interactivity and functionality of web applications."
         },
         {
-            "name": "lab la-vuejs",
+            "name":"Vue.js",
+            "image": "lab la-vuejs",
+            "url":"url",
             "level": "Intermediate level",
             "proficiency": "I have experience with Vue.js for building dynamic and reactive user interfaces"
         },
         {
-            "name": "lab la-node",
+            "name":"Node.js",
+            "image": "lab la-node",
+            "url":"url",
             "level": "Intermediate level",
             "proficiency": "I have an entry level understanding on this framework"
         },
         {
-            "name": "lab la-figma",
+            "name":"Figma",
+            "image": "lab la-figma",
+            "url":"url",
             "level": "Intermediate level",
             "proficiency": "I can design user interfaces and prototypes using Figma, focusing on user experience and visual aesthetics."
         },
         {
-            "name": "lab la-adobe",
+            "name":"Photoshop",
+            "image": "lab la-adobe",
+            "url":"url",
+            "level": "Intermediate level",
+            "proficiency": "I have skills in Photoshop for creating and editing graphics, enhancing the visual appeal of web projects."
+        },
+        {
+            "name":"Operating Systems Basics",
+            "image": "Url",
+            "url":"url",
+            "level": "Intermediate level",
+            "proficiency": "I have demonstrated proficiency in managing operating systems to optimize performance, ensure stability, and enhance the functionality of software applications. "
+        },
+        {
+            "name":"Linux Unhatched",
+            "image": "url",
+            "url":"url",
             "level": "Intermediate level",
             "proficiency": "I have skills in Photoshop for creating and editing graphics, enhancing the visual appeal of web projects."
         }
     ],
-    "projects": [{
+    "projects": [
+        {
+            "name": "Vera",
+            "github": "https://github.com/Chany4/ecom-WEB",
+            "vercel": "https://ecom-web-45cw.vercel.app/index.html",
+            "description": "Interested in purchasing quality bags and shoes? Visit Vera",
+            "image": "https://chany4.github.io/images.Portfolio/images/Screenshot%202024-07-03%20151306.png"
+        },
+        {
+            "name": "SWEGGA Website",
+            "github": "https://github.com/Chany4/SWEGGA",
+            "vercel": "https://swegga-zeta.vercel.app/",
+            "description": "I created this demo website for a made up company as an activity",
+            "image": "https://chany4.github.io/images.Portfolio/images/Screenshot%202024-05-10%20123350.png"
+        },
+        {
+            "name": "Keyboard",
+            "github": "https://github.com/Chany4/keyboard",
+            "vercel": "https://keyboard-gilt.vercel.app/",
+            "description": "I used HTML, CSS and JavaScript to create this",
+            "image": "https://chany4.github.io/images.Portfolio/images/Screenshot%202024-05-10%20123103.png"
+        },
+        {
             "name": "Calculator",
             "github": "https://github.com/Chany4/calculator",
             "vercel": "https://calculator2-xi.vercel.app/",
             "description": "I used HTML, CSS and JavaScript to create this. It is a basic functional calculator",
             "image": "https://chany4.github.io/images.Portfolio/images/Screenshot%202024-05-10%20125129.png"
+        },
+        {
+            "name": "Capstone Project",
+            "github": "https://github.com/Chany4/capstone",
+            "vercel": "https://capstone-46fd2.web.app/",
+            "description": "This is still under production",
+            "image": "https://chany4.github.io/images.Portfolio/images/Screenshot%202024-07-05%20145621.png"
+        },
+        {
+            "name": "Node.js Project",
+            "github": "https://github.com/Shakill23/symphony_node_Project",
+            "vercel": "https://symphony123-d24e7.web.app/",
+            "description": "This is still under production",
+            "image": "https://chany4.github.io/images.Portfolio/images/Screenshot%202024-07-05%20145653.png"
         },
         {
             "name": "BMI-Calculator",
@@ -107,41 +186,6 @@
             "vercel": "https://to-do-list-hazel-tau.vercel.app/",
             "description": "I used HTML, CSS and JavaScript to create this. It is a simple to do list that adds and removes tasks",
             "image": "https://chany4.github.io/images.Portfolio/images/Screenshot%202024-07-03%20150246.png"
-        },
-        {
-            "name": "SWEGGA Website",
-            "github": "https://github.com/Chany4/SWEGGA",
-            "vercel": "https://swegga-zeta.vercel.app/",
-            "description": "I created this demo website for a made up company as an activity",
-            "image": "https://chany4.github.io/images.Portfolio/images/Screenshot%202024-05-10%20123350.png"
-        },
-        {
-            "name": "Minutes to Seconds Converter",
-            "github": "https://github.com/Chany4/min2sec",
-            "vercel": "https://min2sec.vercel.app/",
-            "description": "I used HTML, CSS and JavaScript to create this",
-            "image": "https://chany4.github.io/images.Portfolio/images/Screenshot%202024-07-05%20145621.png"
-        },
-        {
-            "name": "Temperature Converter",
-            "github": "https://github.com/Chany4/tempConvert",
-            "vercel": "https://temp-convert-gold.vercel.app/",
-            "description": "I used HTML, CSS and JavaScript to create this",
-            "image": "https://chany4.github.io/images.Portfolio/images/Screenshot%202024-07-05%20145653.png"
-        },
-        {
-            "name": "Keyboard",
-            "github": "https://github.com/Chany4/keyboard",
-            "vercel": "https://keyboard-gilt.vercel.app/",
-            "description": "I used HTML, CSS and JavaScript to create this",
-            "image": "https://chany4.github.io/images.Portfolio/images/Screenshot%202024-05-10%20123103.png"
-        },
-        {
-            "name": "Vera",
-            "github": "https://github.com/Chany4/ecom-WEB",
-            "vercel": "https://ecom-web-45cw.vercel.app/index.html",
-            "description": "I used HTML, CSS and JavaScript to create this",
-            "image": "https://chany4.github.io/images.Portfolio/images/Screenshot%202024-07-03%20151306.png"
         }
     ],
     "testimonials": [{
@@ -173,12 +217,6 @@
             "position": "Student at Life Choices",
             "message": "Soft hearted person who loves working with people. Contributes a lot in a team to produce quality results. Very hard working and puts in 110% effort",
             "image": "https://chany4.github.io/images.Portfolio/images/Marcus.jpg"
-        },
-        {
-            "name": "Zen Lee George",
-            "position": "Student at Life Choices",
-            "message": "Having Chandre as a classmate has been a delightful experience. Her dedication to her studies, combined with her friendly and supportive demeanor, creates a positive atmosphere for everyone around her. She is a driven and hardworking individual who would be a great asset to any company she joins.",
-            "image": "https://chany4.github.io/images.Portfolio/images/Zen.jpg"
         }
     ],
     "contact": {
