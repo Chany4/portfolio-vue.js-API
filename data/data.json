@@ -130,6 +130,28 @@
             "proficiency": "I have skills in Photoshop for creating and editing graphics, enhancing the visual appeal of web projects."
         }
     ],
+    "softSkills":[
+        {
+            "name": "Good Communication skills",
+            "description": "Interested in purchasing quality bags and shoes? Visit Vera",
+            "image": "https://chany4.github.io/images-portfolio-re/images/communicational.png"
+        },
+        {
+            "name": "Proble Solving",
+            "description": "Interested in purchasing quality bags and shoes? Visit Vera",
+            "image": "https://chany4.github.io/images.Portfolio/images/Screenshot%202024-07-03%20151306.png"
+        },
+        {
+            "name": "Leadership Skills",
+            "description": "Interested in purchasing quality bags and shoes? Visit Vera",
+            "image": "https://chany4.github.io/images.Portfolio/images/Screenshot%202024-07-03%20151306.png"
+        },
+        {
+            "name": "Innovative and Creative",
+            "description": "Interested in purchasing quality bags and shoes? Visit Vera",
+            "image": "https://chany4.github.io/images.Portfolio/images/Screenshot%202024-07-03%20151306.png"
+        }
+    ],
     "projects": [
         {
             "name": "Vera",
