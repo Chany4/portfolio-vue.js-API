@@ -208,6 +208,13 @@
             "vercel": "https://to-do-list-hazel-tau.vercel.app/",
             "description": "I used HTML, CSS and JavaScript to create this. It is a simple to do list that adds and removes tasks",
             "image": "https://chany4.github.io/images.Portfolio/images/Screenshot%202024-07-03%20150246.png"
+        },
+        {
+            "nameP":"Product Development",
+            "figma":"https://www.figma.com/design/N6HBfqkY90BPCnPYytYErd/Foodie-app?node-id=0-1&node-type=canvas&t=8lHm8MFNYC9vOjPR-0",
+            "click_up":"",
+            "description":"description",
+            "image":"https://chany4.github.io/images-portfolio-re/images/whiteboard.png"
         }
     ],
     "testimonials": [{
